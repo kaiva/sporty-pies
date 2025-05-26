@@ -1,1 +1,1 @@
-# sporty-pies assets - just a dummy repo for a couple of pics
+# sporty-pies assets - just a dummy temporary repo for a couple of pics
